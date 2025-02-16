@@ -55,15 +55,15 @@
 <h2> 📌 Proyectos Destacados</h2>
     <ul>
         <li>
-            <strong><a href="#">Proyecto 1</a></strong> - Automatización de reportes para control de movilidad 🚖📊
+            <strong><a href="#">Proyecto 1</a></strong> -Automation of reports for mobility control 🚖📊
                 <ul>
-                    <li>Desarrollado en Python con integración de SQL para la extracción de datos y generación de informes automatizados en Power BI.</li>
+                    <li>Developed in Python with SQL integration for data extraction and automated reporting in Power BI.</li>
                 </ul>
         </li>
         <li>
-            <strong><a href="#">Proyecto 2</a></strong> - Plataforma de visualización de datos para análisis de tráfico 🚦📈
+            <strong><a href="#">Proyect 2</a></strong> - Data visualization platform🚦📈
             <ul>
-                <li>Implementado con JavaScript y D3.js para gráficos interactivos, junto con una base de datos SQL para almacenamiento de información en tiempo real.</li>
+                <li>Implemented with JavaScript and D3.js for interactive graphics, along with a SQL database for real-time information storage.</li>
             </ul>
         </li>
     </ul>
@@ -78,7 +78,7 @@
 </body>
 </html>
 
-<!--
+<!-- ----------------------------------------------------------------------------
 **alexrm-dev/alexrm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
